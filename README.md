@@ -13,8 +13,8 @@ The project is fully developed by Unity.
 3. File -> Build setting, click on scene in the build, build and run
   * For iOS, make sure your provision profile in Xcode set collectly.
 
-### ARMemory direction
-The application named "ARMemory" should appear in your device.
+### ARMemo direction
+The application named "ARMemo" should appear in your device.
 1. For iOS, there should be a notification that the developer of the app isn't trusted on your device. 
   * Go to Settings > General >  Profiles or Profiles & Device Management. 
   * Under the "Enterprise App" heading, there is a profile for the developer.
