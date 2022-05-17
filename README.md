@@ -25,3 +25,6 @@ The application named "ARMemo" should appear in your device.
   * Click on "Load" button to load map information you alrady saved.
   * Click on "Reset" button to reset the session.
   * Have fun for yourself!
+
+Demo Video: https://www.youtube.com/watch?v=GHPCialv1u8
+Presentation: https://www.youtube.com/watch?v=nN-HHW8cuNQ
